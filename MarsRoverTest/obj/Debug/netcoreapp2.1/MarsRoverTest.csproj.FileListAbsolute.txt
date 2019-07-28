@@ -1,0 +1,17 @@
+C:\Users\CTRLVJHB02\Desktop\Projects\C#\MarsRover\MarsRover\MarsRoverTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\CTRLVJHB02\Desktop\Projects\C#\MarsRover\MarsRover\MarsRoverTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\CTRLVJHB02\Desktop\Projects\C#\MarsRover\MarsRover\MarsRoverTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\CTRLVJHB02\Desktop\Projects\C#\MarsRover\MarsRover\MarsRoverTest\bin\Debug\netcoreapp2.1\MarsRoverTest.deps.json
+C:\Users\CTRLVJHB02\Desktop\Projects\C#\MarsRover\MarsRover\MarsRoverTest\bin\Debug\netcoreapp2.1\MarsRoverTest.runtimeconfig.json
+C:\Users\CTRLVJHB02\Desktop\Projects\C#\MarsRover\MarsRover\MarsRoverTest\bin\Debug\netcoreapp2.1\MarsRoverTest.runtimeconfig.dev.json
+C:\Users\CTRLVJHB02\Desktop\Projects\C#\MarsRover\MarsRover\MarsRoverTest\bin\Debug\netcoreapp2.1\MarsRoverTest.dll
+C:\Users\CTRLVJHB02\Desktop\Projects\C#\MarsRover\MarsRover\MarsRoverTest\bin\Debug\netcoreapp2.1\MarsRoverTest.pdb
+C:\Users\CTRLVJHB02\Desktop\Projects\C#\MarsRover\MarsRover\MarsRoverTest\bin\Debug\netcoreapp2.1\MarsRover.dll
+C:\Users\CTRLVJHB02\Desktop\Projects\C#\MarsRover\MarsRover\MarsRoverTest\bin\Debug\netcoreapp2.1\MarsRover.pdb
+C:\Users\CTRLVJHB02\Desktop\Projects\C#\MarsRover\MarsRover\MarsRoverTest\obj\Debug\netcoreapp2.1\MarsRoverTest.csprojAssemblyReference.cache
+C:\Users\CTRLVJHB02\Desktop\Projects\C#\MarsRover\MarsRover\MarsRoverTest\obj\Debug\netcoreapp2.1\MarsRoverTest.csproj.CoreCompileInputs.cache
+C:\Users\CTRLVJHB02\Desktop\Projects\C#\MarsRover\MarsRover\MarsRoverTest\obj\Debug\netcoreapp2.1\MarsRoverTest.AssemblyInfoInputs.cache
+C:\Users\CTRLVJHB02\Desktop\Projects\C#\MarsRover\MarsRover\MarsRoverTest\obj\Debug\netcoreapp2.1\MarsRoverTest.AssemblyInfo.cs
+C:\Users\CTRLVJHB02\Desktop\Projects\C#\MarsRover\MarsRover\MarsRoverTest\obj\Debug\netcoreapp2.1\MarsRoverTest.csproj.CopyComplete
+C:\Users\CTRLVJHB02\Desktop\Projects\C#\MarsRover\MarsRover\MarsRoverTest\obj\Debug\netcoreapp2.1\MarsRoverTest.dll
+C:\Users\CTRLVJHB02\Desktop\Projects\C#\MarsRover\MarsRover\MarsRoverTest\obj\Debug\netcoreapp2.1\MarsRoverTest.pdb
